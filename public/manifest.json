@@ -1,0 +1,21 @@
+{
+  "short_name": "React 2048",
+  "name": "2048 game",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "450x450",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-maskable.png",
+      "sizes": "550x550",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
